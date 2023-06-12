@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
+//已修改
 public class GiveForce : MonoBehaviour
 {
     DistanceJoint2D distance;
